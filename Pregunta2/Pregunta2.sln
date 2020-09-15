@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pregunt2", "Pregunt2\Pregunt2.csproj", "{71988E63-E4C1-4BEF-9DAE-B39BAD21C647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pregunt2.Tests", "Pregunt2.Tests\Pregunt2.Tests.csproj", "{B310E984-B75C-4C59-9CEC-888576D9793C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71988E63-E4C1-4BEF-9DAE-B39BAD21C647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71988E63-E4C1-4BEF-9DAE-B39BAD21C647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71988E63-E4C1-4BEF-9DAE-B39BAD21C647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71988E63-E4C1-4BEF-9DAE-B39BAD21C647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B310E984-B75C-4C59-9CEC-888576D9793C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B310E984-B75C-4C59-9CEC-888576D9793C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B310E984-B75C-4C59-9CEC-888576D9793C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B310E984-B75C-4C59-9CEC-888576D9793C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B249FF7-D3D8-48C1-97ED-6DA936BBF49B}
+	EndGlobalSection
+EndGlobal
